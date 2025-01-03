@@ -1,43 +1,38 @@
 # CropDarpan_RefDocs
 
+Please follow the website and explore the functionality:
 
-Follow the website and use it.
+- Website: [CropDarpan](https://cropdarpan.com/cropdarpan/)
+- Android App: [Install from Google Play](https://play.google.com/store/apps/details?id=in.iiit.cropdarpan&hl=en_IN)
+- iOS App: [Install from App Store](https://apps.apple.com/in/app/crop-darpan/id1556486922)
 
-https://cropdarpan.com/cropdarpan/
+For the first two weeks, your task is to write a report based on the survey of the app and website, as well as reading the requirement document and related materials.
 
-Install the app and use it and intract with that to under stand the funtionality
+While preparing the report, please follow the structure provided below. For more details, refer to the sample report.
 
-https://play.google.com/store/apps/details?id=in.iiit.cropdarpan&hl=en_IN
+This report will later serve as a foundation for enhancing the versions.
 
-https://apps.apple.com/in/app/crop-darpan/id1556486922
+### Report Structure:
 
+1. **Introduction**
+   - **Paragraph 1**: Provide a general introduction to the issue.
+   - **Paragraph 2**: Introduce the current problem being addressed.
+   - **Paragraph 3**: Outline the current status and identify the gaps.
+   - **Paragraph 4**: State the objective of the work.
 
-First tow week task write the report after survaying the app and web and after reading the requirment document and the related document. 
+2. **Background and Related Work**
+   - Provide an overview of previous work or research related to the topic.
 
-WHen you writing the first follow the sample structure is given also for more detail refer to the sample report.
+3. **Current Status**
+   - Detail the present situation, highlighting any achievements or challenges faced.
 
-Letter this report will we the enahncing the versions
+4. **Identified Gaps and Work to Be Done**
+   - Discuss the gaps found during the survey and the work required to address them.
 
-1.  Introduction
+5. **Proposed Plan for This Semester**
+   - Present the plan of action for the semester, outlining key tasks and milestones.
 
-Para 1: general intro to the issue
+6. **References**
+   - List all the references used in the report.
 
-Para 2: Introduction to the current problem
-
-Para 3. Current status and gap
-
-Para 4: Objective
-
-2. Background/related work
-
-3. Current status
-
-4. Gaps identified/Work to be done
-
-5. Proposed plan in this semester
-
-6. List of References
-
-
-Must include this in the report.
-
+Ensure the report includes all of these sections as outlined.
