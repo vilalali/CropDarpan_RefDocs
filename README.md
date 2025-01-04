@@ -13,6 +13,8 @@ While preparing the report, please follow the structure provided below. For more
 This report will later serve as a foundation for enhancing the versions.
 
 ### Report Structure:
+- Report in [IEEE Format only](https://ieee.org/conferences/publishing/templates.html) 
+
 
 1. **Introduction**
    - **Paragraph 1**: Provide a general introduction to the issue.
