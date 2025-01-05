@@ -5,6 +5,7 @@ Please follow the website and explore the functionality:
 - Website: [CropDarpan](https://cropdarpan.com/cropdarpan/)
 - Android App: [Install from Google Play](https://play.google.com/store/apps/details?id=in.iiit.cropdarpan&hl=en_IN)
 - iOS App: [Install from App Store](https://apps.apple.com/in/app/crop-darpan/id1556486922)
+- [Documentation (API Document, DB schema, etc.)](https://cd-docs.web.app/)
 
 For the first two weeks, your task is to write a report based on the survey of the app and website, as well as reading the requirement document and related materials.
 
